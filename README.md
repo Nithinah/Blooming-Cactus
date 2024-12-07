@@ -12,8 +12,8 @@ Booking Confirmation UI:
 Payment UI:
 ![image](https://github.com/user-attachments/assets/e98fe4b5-d4fe-450e-a021-00f7f9c03b35)
 
-Admin Dashboard UI:
-![Uploading image.png…]()
+
+
 
 
 
