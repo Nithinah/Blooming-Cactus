@@ -1,3 +1,5 @@
+# Blooming Cactus - Resort Management System
+
 The Blooming Cactus Resort Management System is a comprehensive, web-based platform designed to simplify and enhance resort operations for both guests and administrators. The system offers guests a seamless experience by enabling them to register, browse room options, make bookings, manage payments, and engage in resort activities such as spa treatments , adventure tours, etc.,.
 
 For administrators, the system provides powerful tools to manage room inventories, activities, user accounts, and generate detailed earnings reports. The goal is to improve customer satisfaction through a user-friendly interface while ensuring efficient and smooth resort management.
